@@ -1,7 +1,5 @@
 # cadastro_usuarios
 
-# vue-covid-tracker
-
 This ReactJS application to create a user registration.
 
 
