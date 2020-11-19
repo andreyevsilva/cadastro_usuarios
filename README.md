@@ -3,6 +3,12 @@
 This ReactJS application to create a user registration.
 
 
+# Home
+![Imgur Image](https://imgur.com/4qkkR9N.png)
+
+# Usuers
+![Imgur Image](https://imgur.com/OpUncRD.png)
+
 # Features
 
 - :heavy_check_mark: **ReactJS**.
